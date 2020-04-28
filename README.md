@@ -5,7 +5,7 @@ google drive apiを使用するサンプル
 以下のページのサンプルが利用できることを確認する。ただしGMailは不要なので、google driveのみ。
 https://tech-blog.rakus.co.jp/entry/20180725/google-apis/google-cloud-platform/quickstart
 
-#手順補足
+# 手順補足
 プロジェクト名：schedule
 組織なし
 google drive APIを有効にする
